@@ -15,7 +15,7 @@
         <li><strong>Acesse o Tinkercad:</strong> Vá para <a href="https://www.tinkercad.com">www.tinkercad.com</a> e entre na sua conta.</li>
         <li><strong>Abra o Projeto:</strong> Localize e abra o projeto desejado na sua lista de projetos.</li>
         <li><strong>Verifique o Circuito:</strong> Confirme se o circuito está corretamente montado no editor do Tinkercad.</li>
- <img src="https://github.com/Lari-Ara/Jogo-da-garrafa/assets/166271278/3bd34092-cbce-4f61-8c07-28643d3791ae" alt="Descrição da Imagem">
+ <img src="https://github.com/Lari-Ara/Jogo-da-garrafa/assets/166271278/cff1e11d-c827-4b7b-8b66-09783119e3d9" alt="Descrição da Imagem">
       <li><strong>Código Fonte:</strong> No editor de código, confira se o código C++ está correto e se corresponde ao circuito.</li>
         <li><strong>Simulação:</strong> Clique em 'Start Simulation' para iniciar a simulação do projeto.</li>
         <li><strong>Teste e Depuração:</strong> Ajuste o código ou circuito conforme necessário e repita a simulação.</li>
@@ -25,3 +25,4 @@
     
    
    
+
